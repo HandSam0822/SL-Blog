@@ -16,7 +16,7 @@
     * [\[NoSQL\] DynamoDB vs. MongoDB](learning/database/nosql-dynamodb-vs.-mongodb.md)
     * [\[NoSQL\] Redis](learning/database/nosql-redis.md)
   * [Web Application](learning/web-application/README.md)
-    * [Session token vs. JWT(JSON Web Token)](learning/web-application/session-token-vs.-jwt-json-web-token.md)
+    * [\[Authentication\] Session-based vs. token based](learning/web-application/authentication-session-based-vs.-token-based.md)
   * [System Design](learning/system-design/README.md)
     * [Cache](learning/system-design/cache.md)
 * [Life](life/README.md)
