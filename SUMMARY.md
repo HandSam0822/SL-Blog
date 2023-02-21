@@ -12,7 +12,7 @@
     * [RxJS](learning/angular/rxjs.md)
   * [NestJS](learning/nestjs.md)
   * [Database](learning/database/README.md)
-    * [\[NoSQL\] 4 type of NoSQL database schema](learning/database/nosql-4-type-of-nosql-database-schema.md)
+    * [\[NoSQL\] 4 types of NoSQL database schema](learning/database/nosql-4-types-of-nosql-database-schema.md)
     * [\[NoSQL\] DynamoDB vs. MongoDB](learning/database/nosql-dynamodb-vs.-mongodb.md)
     * [\[NoSQL\] Redis](learning/database/nosql-redis.md)
   * [Web Application](learning/web-application/README.md)

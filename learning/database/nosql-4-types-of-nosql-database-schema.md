@@ -1,8 +1,11 @@
 ---
-description: Overview of 4 main type of NoSQL database schema
+description: >-
+  There're 4 different types of NoSQL database schema, respectively key-value,
+  document-oriented, column family, and graph. This article will walk through
+  the pros and cons of each schema design
 ---
 
-# \[NoSQL] 4 type of NoSQL database schema
+# \[NoSQL] 4 types of NoSQL database schema
 
 ### Key-Value (Redis, DynamoDB)
 
@@ -13,9 +16,9 @@ _Use Case_&#x20;
 1. Small data size with flexible data storage.&#x20;
 2. Data model is very simple
 
-👎&#x20;
+Downsides 👎&#x20;
 
-1. Data size limitation. Redis store data in-memory, and DynamoDB has 400 kb limitation.
+1. Data size limitation: Redis store data in-memory; DynamoDB has 400 kb limitation.
 2. Not supportive for complex data processing such as grouping
 
 ### Document-oriented (MongoDB, CouchDB)
