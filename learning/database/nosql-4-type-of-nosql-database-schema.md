@@ -28,7 +28,7 @@ Downsides 👎&#x20;
 
 _Each document contains a set of key-value pairs._&#x20;
 
-_Here's the table comparing MongoDB and CouchDB, you can access the article -_ [_MongoDB vs CouchDB_](https://www.mongodb.com/compare/couchdb-vs-mongodb) _to get more detail comparison_
+_Here's the table comparing MongoDB and CouchDB, you can access the article -_ [CouchDB and MongoDB Compared](https://www.mongodb.com/compare/couchdb-vs-mongodb) _to get more detail comparison_
 
 |                | MongoDB                                          | CouchDB                                        |
 | -------------- | ------------------------------------------------ | ---------------------------------------------- |
@@ -42,6 +42,7 @@ _Here's the table comparing MongoDB and CouchDB, you can access the article -_ [
 _Use Case_
 
 1. The data schema is semi-structured
+2. High read and write throughput
 
 Downsides 👎
 
@@ -52,7 +53,7 @@ Downsides 👎
 
 _Each keyspace(database) has column-family(table). Each column family has multiple rows(row), each rows contains a row-key and different number of column, in each column contains a column name, value, and timestamp._
 
-__![Column family database](../../.gitbook/assets/image.png)__![](<../../.gitbook/assets/image (1).png>)__
+__![Column family database](<../../.gitbook/assets/image (1).png>)__![](../../.gitbook/assets/image.png)__
 
 Use case
 
@@ -71,5 +72,15 @@ Use case&#x20;
 
 1. If data has complex relationships such as social network, which contains **a set of entities and their relationship**, a graph database provides powerful traversal and querying capabilities.
 2. If you need to run **graph algorithms** such as shortest path, centrality or community detection a graph database is the best choice.
+
+
+
+### References
+
+[CouchDB and MongoDB Compared](https://www.mongodb.com/compare/couchdb-vs-mongodb)
+
+[What is a Column Store Database?](https://database.guide/what-is-a-column-store-database/)
+
+
 
 \
