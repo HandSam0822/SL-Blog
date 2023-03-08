@@ -10,6 +10,8 @@
     * [API Design in Python](learning/api-design-and-implementation/api-design-in-python.md)
   * [Angular](learning/angular/README.md)
     * [RxJS](learning/angular/rxjs.md)
+    * [Service Worker](learning/angular/service-worker.md)
+    * [\[Angular\] Pipe](learning/angular/angular-pipe.md)
   * [NestJS](learning/nestjs.md)
   * [Database](learning/database/README.md)
     * [\[NoSQL\] 4 types of NoSQL database schema](learning/database/nosql-4-type-of-nosql-database-schema.md)
