@@ -14,6 +14,7 @@
     * [\[Angular\] Pipe](learning/angular/angular-pipe.md)
     * [\[Angular\] Http Fast Caching](learning/angular/angular-http-fast-caching.md)
     * [\[Angular\] Resolver](learning/angular/angular-resolver.md)
+    * [\[Angular\] Angular Universal](learning/angular/angular-angular-universal.md)
   * [NestJS](learning/nestjs.md)
   * [Database](learning/database/README.md)
     * [\[NoSQL\] 4 types of NoSQL database schema](learning/database/nosql-4-type-of-nosql-database-schema.md)
