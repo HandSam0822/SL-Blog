@@ -2,7 +2,7 @@
 description: Description of side effect
 ---
 
-# RxJS
+# \[RxJS] Functional Programming
 
 ### Functional Programming
 
