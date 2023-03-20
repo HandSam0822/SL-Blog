@@ -19,6 +19,7 @@
     * [\[RxJS\] Subject](learning/angular/rxjs-subject.md)
     * [\[RxJS\] map vs. switchMap, mergeMap vs. exhauseMap vs. concatMap](learning/angular/rxjs-map-vs.-switchmap-mergemap-vs.-exhausemap-vs.-concatmap.md)
     * [\[Angular\] Http Intercepter](learning/angular/angular-http-intercepter.md)
+    * [\[Interview\] Common Q\&A](learning/angular/interview-common-q-and-a.md)
   * [NestJS](learning/nestjs.md)
   * [Database](learning/database/README.md)
     * [\[NoSQL\] 4 types of NoSQL database schema](learning/database/nosql-4-type-of-nosql-database-schema.md)
