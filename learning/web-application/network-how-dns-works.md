@@ -34,9 +34,11 @@ There're a several name servers sit between client and the server storing those 
 3. The root server responds to the resolver with the address of a Top Level Domain (TLD) DNS server. In this case, our request is pointed toward the .com TLD.
 4. The resolver then makes a request to the .com TLD.
 5. The .com TLD server forward request to authoritative DNS server, where the source of truth locates, and then responds recursive resolver with the IP address
-6. Lastly, the recursive resolver responds to the web browser with the IP address (e.g. 8.8.8.8).
+6. Lastly, the recursive resolver responds to the web browser with the IP address (e.g. 8.8.8.8).&#x20;
 
-It's worth noting that it's not necessary to go through all steps every time because the result will be cached by browser or OS for a period of time.&#x20;
+{% hint style="info" %}
+It is not necessary to go through all steps every time because the result will be cached by browser or OS for a period of time.
+{% endhint %}
 
 
 

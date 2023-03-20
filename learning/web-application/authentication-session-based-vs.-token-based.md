@@ -27,9 +27,9 @@ Server authorize the action is sent from user who logged in
 
 The main difference is that **JWT doesn't store session id in db**, it **encode and decode** client information. It balances the loading of database and allows client to login across difference service. Unlike JWT, session id stored in one server can't be shared with another server.
 
-
-
-NOTE: Remember to put expire time as one of the payload field to prevent hacker from hijacking your JWT and use it again and again.
+{% hint style="info" %}
+Remember to put expire time as one of the payload field to prevent hacker from hijacking your JWT and use it again and again.
+{% endhint %}
 
 ### Reference
 
