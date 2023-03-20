@@ -28,6 +28,8 @@
   * [Web Application](learning/web-application/README.md)
     * [\[Authentication\] Session-based vs. token based](learning/web-application/authentication-session-based-vs.-token-based.md)
     * [\[Proxy\] Forward Proxy vs. Reverse Proxy](learning/web-application/proxy-forward-proxy-vs.-reverse-proxy.md)
+    * [\[Network\] What is HTTPS](learning/web-application/network-what-is-https.md)
+    * [\[Network\] How DNS works?](learning/web-application/network-how-dns-works.md)
   * [System Design](learning/system-design/README.md)
     * [Cache](learning/system-design/cache.md)
 * [Life](life/README.md)
