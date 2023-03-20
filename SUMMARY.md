@@ -27,6 +27,7 @@
     * [\[NoSQL\] Redis](learning/database/nosql-redis.md)
   * [Web Application](learning/web-application/README.md)
     * [\[Authentication\] Session-based vs. token based](learning/web-application/authentication-session-based-vs.-token-based.md)
+    * [\[Proxy\] Forward Proxy vs. Reverse Proxy](learning/web-application/proxy-forward-proxy-vs.-reverse-proxy.md)
   * [System Design](learning/system-design/README.md)
     * [Cache](learning/system-design/cache.md)
 * [Life](life/README.md)
