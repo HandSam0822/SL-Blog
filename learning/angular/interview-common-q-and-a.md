@@ -33,7 +33,7 @@ description: >-
    1. Libraries to simplify and improve the reactive programming&#x20;
    2. Using Observable to more easily handle asynchronous code comparing to Callbacks and Promises.
    3. Provide a rich set of operators that can be used to transform the data stream and handle complex scenario such as throttling, debouncing, and error retry.
-   4. It is often used in conjunction with frameworks such as Angular or&#x20;
+   4. It is often used in conjunction with Angular framework
 7.  Typescript vs Javascript
 
     TS is the superset of JS, but provides many benefits over plain Javascript, especially for larger, more complex projects. But it ultimately will be transpiled to javascript code in production.

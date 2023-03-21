@@ -34,6 +34,8 @@
     * [\[Network\] What is HTTPS](learning/web-application/network-what-is-https.md)
     * [\[Authentication\] Single Sign-on (SSO)](learning/web-application/authentication-single-sign-on-sso.md)
     * [\[Style\] CSS vs SCSS](learning/web-application/style-css-vs-scss.md)
+    * [\[Authentication\] OAuth](learning/web-application/authentication-oauth.md)
+    * [\[Network\] CORS](learning/web-application/network-cors.md)
   * [System Design](learning/system-design/README.md)
     * [Cache](learning/system-design/cache.md)
 * [Life](life/README.md)
