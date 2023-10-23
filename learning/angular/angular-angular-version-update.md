@@ -36,4 +36,3 @@ The The `angular-cli.json becomes angular.json`
 Angular 2 generated only three script files (inline.js, styles.bundle.js & main.bundle.js)
 {% endhint %}
 
-****

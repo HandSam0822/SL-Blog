@@ -1,12 +1,12 @@
 ---
-description: Document of all minor bug I have resolved
+description: >-
+  The `git push` get authorization deny because my laptop send the credential of
+  my old Github account
 ---
 
-# Minor bug resolved
+# Git Credential
 
-Problem: The \`git push\` get **authorization deny** because my laptop use the credential of my old Github account
-
-Solution:&#x20;
+### Solution:
 
 #### 1. Set git credential to be empty
 

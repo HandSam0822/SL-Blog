@@ -39,7 +39,7 @@ To verify whether the operation has side effect, we could ask ourself 2 question
 
     Doesn't contain **pure** **logic**
 
-#### ****
+####
 
 \
 

@@ -53,7 +53,7 @@ Downsides 👎
 
 _Each keyspace(database) has column-family(table). Each column family has multiple rows(row), each rows contains a row-key and different number of column, in each column contains a column name, value, and timestamp._
 
-__![Column family database](<../../.gitbook/assets/image (1) (1).png>)__![](../../.gitbook/assets/image.png)__
+![Column family database](<../../.gitbook/assets/image (1) (1).png>)![](../../.gitbook/assets/image.png)
 
 Use case
 

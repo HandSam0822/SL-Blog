@@ -76,9 +76,9 @@ transform(value: any, name: string) {
 </div>
 ```
 
-****
 
-****
+
+
 
 **Conclusion:**
 
@@ -92,4 +92,3 @@ transform(value: any, name: string) {
 
 [Explain pure and impure pipe in Angular](https://www.geeksforgeeks.org/explain-pure-and-impure-pipe-in-angular/)
 
-****
