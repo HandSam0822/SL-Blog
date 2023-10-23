@@ -42,6 +42,8 @@
   * [Design Data Intensive Application Review](learning/design-data-intensive-application-review/README.md)
     * [Ch.1 Reliable, Scalable, and Maintainable Applications](learning/design-data-intensive-application-review/ch.1-reliable-scalable-and-maintainable-applications.md)
     * [Ch.2 Data Models and Query Languages](learning/design-data-intensive-application-review/ch.2-data-models-and-query-languages.md)
+    * [Ch.3 Storage and Retrieval](learning/design-data-intensive-application-review/ch.3-storage-and-retrieval.md)
+  * [Minor bug resolved](learning/minor-bug-resolved.md)
 * [Life](life/README.md)
   * [Running](life/running.md)
   * [Skateboard](life/skateboard.md)
