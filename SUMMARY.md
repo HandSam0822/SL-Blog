@@ -36,6 +36,7 @@
     * [\[Style\] CSS vs SCSS](learning/web-application/style-css-vs-scss.md)
     * [\[Authentication\] OAuth](learning/web-application/authentication-oauth.md)
     * [\[Network\] CORS](learning/web-application/network-cors.md)
+    * [\[Proxy\] API Gateway (NGINX)](learning/web-application/proxy-api-gateway-nginx.md)
   * [System Design](learning/system-design/README.md)
     * [Cache](learning/system-design/cache.md)
     * [\[Backend\] What is Serverless](learning/system-design/backend-what-is-serverless.md)
